@@ -19,4 +19,4 @@ For an in depth history of PLATO read "The Friendly Orange Glow" by Brian Dear. 
 
 Believe it or not, you can still play =spasim= on an emulator of the CDC Cyber series computers, running a copy of the Cyber's operating system, running a copy of the PLATO system -- and you can even do so with other users in real time.  It takes some work to get to know the key conventions and how to navigate but as can be seen in the screenshot above, which was taken just the week before the first commit of this repository, it does still work.
 
-[cyber1.org](https://cyber1.org/) is the place to find out about the PLATO system that is currently running =spasim= and many other legendary games from teh 1970s.
+[cyber1.org](https://cyber1.org/) is the place to find out about the PLATO system that is currently running =spasim= and many other legendary games from the 1970s.
